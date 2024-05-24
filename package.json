@@ -1,28 +1,28 @@
 {
-	"name": "head-style",
-	"version": "1.0.3",
-	"description": "Mount and unmount styles easily",
-	"type": "module",
-	"main": "./lib/index.js",
-	"module": "./lib/index.js",
-	"packageManager": "yarn@1.22.22",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/nesvet/head-style.git"
-	},
-	"keywords": [
-		"style",
-		"css",
-		"head",
-		"mount",
-		"unmount"
-	],
-	"author": "Eugene Nesvetaev <dev@nesvet.dev> (https://nesvet.dev/)",
-	"license": "MIT",
-	"devDependencies": {
-		"@nesvet/eslint-config": "^1"
-	}
+  "name": "head-style",
+  "version": "1.0.3",
+  "description": "Mount and unmount styles easily",
+  "type": "module",
+  "main": "./lib/index.js",
+  "module": "./lib/index.js",
+  "packageManager": "bun@1.1.9",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nesvet/head-style.git"
+  },
+  "keywords": [
+    "style",
+    "css",
+    "head",
+    "mount",
+    "unmount"
+  ],
+  "author": "Eugene Nesvetaev <dev@nesvet.dev> (https://nesvet.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@nesvet/eslint-config": "^1"
+  }
 }

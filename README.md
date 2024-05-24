@@ -9,5 +9,5 @@ $ npm install head-style
 Or
 
 ```sh
-$ yarn add head-style
+$ bun add head-style
 ```
